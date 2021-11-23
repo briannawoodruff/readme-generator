@@ -19,7 +19,7 @@ function generateMarkdown(data) {
   ***
   * [Installation](#installation)
   * [Usage](#usage)
-  * [License](#licenses)
+  * [License](#license)
   * [Contributing](#contributing)
   * [Tests](#tests)
   * [Questions](#questions)
@@ -38,7 +38,8 @@ function generateMarkdown(data) {
   ## License: 
   ***
   ${data.badge}
-  ### ${data.licenses}
+  <br />
+  ${data.licenses}
   <br />
 
   ## Contributing:

@@ -11,7 +11,7 @@
   ***
   * [Installation](#installation)
   * [Usage](#usage)
-  * [License](#licenses)
+  * [License](#license)
   * [Contributing](#contributing)
   * [Tests](#tests)
   * [Questions](#questions)
@@ -30,7 +30,8 @@
   ## License: 
   ***
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-  ### Licensed under MIT License.
+  <br />
+  Licensed under MIT License.
   <br />
 
   ## Contributing:
