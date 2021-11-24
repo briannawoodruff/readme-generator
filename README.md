@@ -19,7 +19,7 @@
   <br />
   
   ## Usage:
-  ![Demo gif](media/README-demo.gif) <br /> To use this application, run `node index.js` in the command-line. You will be prompted with a series of questions that will be inputted in the README. After all the questions are answered, a REAME.md file will be created with your input.
+  ![Demo gif](media/README-demo.gif) <br />  <br /> To use this application, run `node index.js` in the command-line. You will be prompted with a series of questions that will be inputted in the README. After all the questions are answered, a REAME.md file will be created with your input.
   <br />
 
   ## License: 
